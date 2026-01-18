@@ -1,0 +1,1735 @@
+{
+  "nodes": [
+    {
+      "id": "hub-main",
+      "type": "text",
+      "text": "# \ud83c\udfaf CODING INTERVIEW UNIVERSITY\n## Optimized Learning System\n\n**9 Learning Frameworks Synthesized**\n- 90-min ultradian focus blocks\n- 4% challenge stretch rule\n- Sleep-first memory consolidation\n- Spaced repetition (d=0.54)",
+      "x": 0,
+      "y": 0,
+      "width": 498,
+      "height": 284,
+      "color": "6"
+    },
+    {
+      "id": "foundations-hub",
+      "type": "text",
+      "text": "# \ud83d\udfe2 FOUNDATIONS\n## Start Here\n\nMaster these first before proceeding.\nEstimated time: 2-3 weeks",
+      "x": -3000,
+      "y": -2400,
+      "width": 413,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "bigo",
+      "type": "text",
+      "text": "## Big-O / Algorithmic Complexity\n\n- Time complexity analysis\n- Space complexity\n- Best/Average/Worst case\n- Amortized analysis\n\n**Priority**: CRITICAL\n**Flow trigger**: Clear goal",
+      "x": -3500,
+      "y": -1800,
+      "width": 466,
+      "height": 312,
+      "color": "4"
+    },
+    {
+      "id": "arrays",
+      "type": "text",
+      "text": "## Arrays\n\n- Static vs dynamic\n- Contiguous memory\n- O(1) access\n- Two-pointer technique\n\n**Prereq**: Big-O",
+      "x": -3000,
+      "y": -1800,
+      "width": 300,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "linkedlists",
+      "type": "text",
+      "text": "## Linked Lists\n\n- Singly linked\n- Doubly linked\n- Circular\n- Fast/slow pointers\n\n**Prereq**: Arrays",
+      "x": -2500,
+      "y": -1800,
+      "width": 300,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "stacks",
+      "type": "text",
+      "text": "## Stacks\n\n- LIFO principle\n- Push/Pop O(1)\n- Applications: parsing, undo\n- Monotonic stacks\n\n**Prereq**: Arrays",
+      "x": -3500,
+      "y": -1200,
+      "width": 341,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "queues",
+      "type": "text",
+      "text": "## Queues\n\n- FIFO principle\n- Enqueue/Dequeue O(1)\n- Circular queues\n- Priority queues (intro)\n\n**Prereq**: Arrays",
+      "x": -3000,
+      "y": -1200,
+      "width": 305,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "hashtables",
+      "type": "text",
+      "text": "## Hash Tables\n\n- Hash functions\n- Collision handling\n- O(1) average lookup\n- Sets vs Maps\n\n**Priority**: CRITICAL\n**Prereq**: Arrays",
+      "x": -2500,
+      "y": -1200,
+      "width": 300,
+      "height": 312,
+      "color": "4"
+    },
+    {
+      "id": "binarysearch",
+      "type": "text",
+      "text": "## Binary Search\n\n- O(log n) search\n- Sorted arrays\n- Search space reduction\n- Bisect variations\n\n**Prereq**: Arrays, Big-O",
+      "x": -3500,
+      "y": -600,
+      "width": 327,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "bitwise",
+      "type": "text",
+      "text": "## Bitwise Operations\n\n- AND, OR, XOR, NOT\n- Bit manipulation tricks\n- Bit masks\n- Power of 2 checks\n\n**Prereq**: Basic math",
+      "x": -3000,
+      "y": -600,
+      "width": 325,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "intermediate-hub",
+      "type": "text",
+      "text": "# \ud83d\udfe1 INTERMEDIATE\n## Build Upon Foundations\n\nCore algorithms and data structures.\nEstimated time: 4-6 weeks",
+      "x": 1500,
+      "y": -2400,
+      "width": 404,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "trees-main",
+      "type": "text",
+      "text": "## Trees Overview\n\n- Tree terminology\n- Binary trees\n- N-ary trees\n- Tree properties\n\n**Prereq**: Linked Lists, Recursion",
+      "x": 1000,
+      "y": -1800,
+      "width": 426,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "bst",
+      "type": "text",
+      "text": "## Binary Search Trees\n\n- BST property\n- Insert/Delete/Search\n- Inorder traversal = sorted\n- Self-balancing intro\n\n**Prereq**: Trees",
+      "x": 1500,
+      "y": -1800,
+      "width": 337,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "heaps",
+      "type": "text",
+      "text": "## Heaps / Priority Queues\n\n- Min-heap / Max-heap\n- Heap property\n- Heapify O(n)\n- Top-K problems\n\n**Priority**: HIGH\n**Prereq**: Trees, Arrays",
+      "x": 2000,
+      "y": -1800,
+      "width": 384,
+      "height": 312,
+      "color": "5"
+    },
+    {
+      "id": "traversals",
+      "type": "text",
+      "text": "## Tree Traversals\n\n- DFS: Preorder, Inorder, Postorder\n- BFS: Level order\n- Iterative vs Recursive\n- Morris traversal\n\n**Prereq**: Trees, Stacks, Queues",
+      "x": 1000,
+      "y": -1200,
+      "width": 406,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "sorting-main",
+      "type": "text",
+      "text": "## Sorting Algorithms\n\n- Comparison sorts\n- Stability concept\n- In-place sorting\n- Best algorithm choice\n\n**Prereq**: Arrays, Big-O",
+      "x": 1000,
+      "y": -600,
+      "width": 327,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "mergesort",
+      "type": "text",
+      "text": "## Mergesort\n\n- Divide and conquer\n- O(n log n) always\n- Stable sort\n- External sorting",
+      "x": 1500,
+      "y": -600,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "quicksort",
+      "type": "text",
+      "text": "## Quicksort\n\n- Partition scheme\n- O(n log n) average\n- In-place\n- Pivot selection",
+      "x": 2000,
+      "y": -600,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "heapsort",
+      "type": "text",
+      "text": "## Heapsort\n\n- Heap-based sorting\n- O(n log n) worst\n- In-place\n- Not stable",
+      "x": 2500,
+      "y": -600,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "simplesorts",
+      "type": "text",
+      "text": "## Simple Sorts\n\n- Selection sort\n- Insertion sort\n- Bubble sort\n- Good for small n",
+      "x": 1000,
+      "y": 0,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "graphs-main",
+      "type": "text",
+      "text": "## Graphs Overview\n\n- Directed vs Undirected\n- Weighted vs Unweighted\n- Adjacency list/matrix\n- Graph terminology\n\n**Priority**: HIGH\n**Prereq**: Hash Tables, Trees",
+      "x": 1000,
+      "y": 600,
+      "width": 377,
+      "height": 312,
+      "color": "5"
+    },
+    {
+      "id": "graph-bfs",
+      "type": "text",
+      "text": "## BFS\n\n- Level-order traversal\n- Shortest path (unweighted)\n- Queue-based\n- O(V + E)",
+      "x": 1500,
+      "y": 600,
+      "width": 332,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "graph-dfs",
+      "type": "text",
+      "text": "## DFS\n\n- Stack/recursion\n- Path finding\n- Cycle detection\n- Topological sort",
+      "x": 2000,
+      "y": 600,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "dijkstra",
+      "type": "text",
+      "text": "## Dijkstra's Algorithm\n\n- Shortest path (weighted)\n- Non-negative edges\n- Priority queue\n- O(E log V)",
+      "x": 1000,
+      "y": 1200,
+      "width": 349,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "mst",
+      "type": "text",
+      "text": "## MST Algorithms\n\n- Prim's algorithm\n- Kruskal's algorithm\n- Union-Find for Kruskal\n- Minimum spanning tree",
+      "x": 1500,
+      "y": 1200,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "advanced-hub",
+      "type": "text",
+      "text": "# \ud83d\udd34 ADVANCED\n## Master Last\n\nComplex algorithms and patterns.\nEstimated time: 4-8 weeks",
+      "x": -500,
+      "y": 3000,
+      "width": 368,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "recursion",
+      "type": "text",
+      "text": "## Recursion\n\n- Base cases\n- Recursive step\n- Call stack\n- Tail recursion\n\n**Prereq**: All foundations",
+      "x": -1000,
+      "y": 3600,
+      "width": 347,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "backtracking",
+      "type": "text",
+      "text": "## Backtracking\n\n- State space tree\n- Pruning strategies\n- Permutations/Combinations\n- N-Queens, Sudoku\n\n**Prereq**: Recursion, DFS",
+      "x": -500,
+      "y": 3600,
+      "width": 337,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "dp",
+      "type": "text",
+      "text": "## Dynamic Programming\n\n- Overlapping subproblems\n- Optimal substructure\n- Memoization vs Tabulation\n- State definition\n\n**Priority**: CRITICAL\n**Prereq**: Recursion",
+      "x": 0,
+      "y": 3600,
+      "width": 337,
+      "height": 312,
+      "color": "1"
+    },
+    {
+      "id": "dp-patterns",
+      "type": "text",
+      "text": "## DP Patterns\n\n- 0/1 Knapsack\n- Unbounded Knapsack\n- LCS/LIS\n- Matrix chain\n- Interval DP\n- Bitmask DP",
+      "x": 0,
+      "y": 4200,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "greedy",
+      "type": "text",
+      "text": "## Greedy Algorithms\n\n- Greedy choice property\n- Optimal substructure\n- Activity selection\n- Huffman coding\n\n**Prereq**: Big-O, Sorting",
+      "x": -500,
+      "y": 4200,
+      "width": 337,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "design-patterns",
+      "type": "text",
+      "text": "## Design Patterns\n\n- Singleton, Factory\n- Observer, Strategy\n- Decorator, Adapter\n- OOP principles\n\n**Prereq**: OOP basics",
+      "x": -500,
+      "y": 4800,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "npcomplete",
+      "type": "text",
+      "text": "## NP-Complete\n\n- P vs NP\n- NP-Hard problems\n- Reduction proofs\n- Approximation algos\n\n**Prereq**: All algorithms",
+      "x": 0,
+      "y": 6000,
+      "width": 337,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "tries",
+      "type": "text",
+      "text": "## Tries\n\n- Prefix trees\n- Autocomplete\n- Spell checking\n- Word search\n\n**Prereq**: Trees, Strings",
+      "x": -1000,
+      "y": 6600,
+      "width": 337,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "practice-hub",
+      "type": "text",
+      "text": "# \ud83d\udd35 PRACTICE\n## Continuous\n\nApply knowledge throughout.\nIntegrated with all phases.",
+      "x": -5000,
+      "y": -600,
+      "width": 323,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "leetcode-practice",
+      "type": "text",
+      "text": "## LeetCode Strategy\n\n**Colin Galen 30-40% Rule**\nFind difficulty where you solve\n30-40% without hints.\n\n- Easy: 15 min max\n- Medium: 30 min max\n- Hard: 45-60 min max",
+      "x": -5500,
+      "y": 0,
+      "width": 359,
+      "height": 312,
+      "color": "3"
+    },
+    {
+      "id": "mock-interviews",
+      "type": "text",
+      "text": "## Mock Interviews\n\n- Weekly practice\n- Explain thinking aloud\n- Time yourself (45 min)\n- Review and improve\n\n**Flow trigger**: Risk/consequence",
+      "x": -5000,
+      "y": 0,
+      "width": 416,
+      "height": 284,
+      "color": "3"
+    },
+    {
+      "id": "implementation",
+      "type": "text",
+      "text": "## Implementation Practice\n\n- Write from scratch\n- No copy-paste\n- Build intuition\n- Feynman technique\n\n**Ultralearning**: Directness",
+      "x": -5500,
+      "y": 600,
+      "width": 384,
+      "height": 284,
+      "color": "3"
+    },
+    {
+      "id": "protocol-hub",
+      "type": "text",
+      "text": "# \ud83d\udccb LEARNING PROTOCOLS\n## From 9 Frameworks\n\nEvidence-based strategies for\noptimal skill acquisition",
+      "x": 4500,
+      "y": -1400,
+      "width": 377,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "daily-schedule",
+      "type": "text",
+      "text": "## Daily Session Template\n\n**MORNING BLOCK (90 min)**\n- 5 min: Review yesterday (retrieval)\n- 60 min: Deep work on new topic\n- 15 min: Active recall practice\n- 10 min: GRINDE mind mapping\n\n**AFTERNOON BLOCK (90 min)**\n- 5 min: Problem selection (4% rule)\n- 60 min: Problem solving (flow zone)\n- 15 min: Solution analysis\n- 10 min: Pattern documentation\n\n**EVENING (30-60 min)**\n- Spaced repetition review\n- Implementation practice\n- Next day planning\n\n**RECOVERY**: NSDR 10-20 min post-learning",
+      "x": 4000,
+      "y": -800,
+      "width": 495,
+      "height": 620,
+      "color": "6"
+    },
+    {
+      "id": "spaced-rep",
+      "type": "text",
+      "text": "## Spaced Repetition Schedule\n\n| Day | Review |\n|-----|--------|\n| Day 1 | Learn new concept |\n| Day 2 | First review (24h) |\n| Day 4 | Second review |\n| Day 7 | Third review |\n| Day 14 | Fourth review |\n| Day 30 | Fifth review |\n| Monthly | Maintenance |\n\n**Effect size**: d = 0.54",
+      "x": 4550,
+      "y": -800,
+      "width": 419,
+      "height": 424,
+      "color": "6"
+    },
+    {
+      "id": "flow-protocol",
+      "type": "text",
+      "text": "## Flow State Protocol\n\n**22 Triggers (Top 5 for coding)**:\n1. Clear goals - Define problem first\n2. Immediate feedback - Run tests\n3. Challenge/skill balance - 4% stretch\n4. Complete concentration - No distractions\n5. Deep embodiment - Standing desk\n\n**Flow Cycle**:\n1. STRUGGLE (20-45 min) - Load the brain\n2. RELEASE (15 min) - Walk away\n3. FLOW (45-90 min) - Peak performance\n4. RECOVERY (30+ min) - Rest required",
+      "x": 4000,
+      "y": 0,
+      "width": 467,
+      "height": 452,
+      "color": "6"
+    },
+    {
+      "id": "huberman-protocol",
+      "type": "text",
+      "text": "## Huberman Lab Protocols\n\n**90-min Ultradian Blocks**\n- First 5-10 min = warm-up\n- Middle 60-70 min = peak\n- Natural decline at end\n\n**Gap Effects**\n- Insert 10-sec pauses during practice\n- Brain replays at 20x speed\n- ~1 pause per 2 min of learning\n\n**Post-Learning**\n- Cold exposure spikes adrenaline\n- NSDR accelerates consolidation\n- Caffeine after (not before) learning",
+      "x": 4550,
+      "y": 0,
+      "width": 422,
+      "height": 508,
+      "color": "6"
+    },
+    {
+      "id": "sleep-protocol",
+      "type": "text",
+      "text": "## Sleep Optimization\n\n**Bryan Johnson + Huberman**\n- 8+ hours sleep (7-9 optimal)\n- Consistent bed/wake times\n- First 4 hours most critical\n- Morning light exposure (10-30 min)\n- No screens 60 min before bed\n\n**Memory consolidation during sleep**\n- 20-40% deficit without proper sleep",
+      "x": 4000,
+      "y": 600,
+      "width": 446,
+      "height": 368,
+      "color": "6"
+    },
+    {
+      "id": "encoding-protocol",
+      "type": "text",
+      "text": "## Justin Sung Encoding\n\n**GRINDE Mind Mapping**\n- G: Grouped concepts\n- R: Reflective questioning\n- I: Interconnected nodes\n- N: Non-verbal (symbols)\n- D: Directional flow\n- E: Emphasized key points\n\n**Core Principle**:\nEncoding quality > Retrieval quantity",
+      "x": 4550,
+      "y": 600,
+      "width": 413,
+      "height": 396,
+      "color": "6"
+    },
+    {
+      "id": "deepwork-protocol",
+      "type": "text",
+      "text": "## Cal Newport Deep Work\n\n**4 Philosophies** (pick one):\n1. Monastic - Full isolation\n2. Bimodal - Days for deep/shallow\n3. Rhythmic - Same time daily\n4. Journalistic - Fit it in\n\n**Time Blocking**:\n- Plan every 30-min block\n- Evening planning for next day\n- Shutdown ritual at end\n\n**Formula**:\nOutput = Time \u00d7 Intensity",
+      "x": 4000,
+      "y": 1100,
+      "width": 386,
+      "height": 480,
+      "color": "6"
+    },
+    {
+      "id": "colin-protocol",
+      "type": "text",
+      "text": "## Colin Galen CP Strategy\n\n**30-40% Success Rule**\nFind problems where you solve\n30-40% without help.\n\n**Black Box Method**:\n1. Use algo without full understanding\n2. Focus on I/O and when to apply\n3. Gradually deepen knowledge\n\n**Upsolving**:\n- Revisit unsolved problems\n- Try 15-30 min fresh\n- Read editorial only after stuck\n- Implement without looking at code",
+      "x": 4550,
+      "y": 1100,
+      "width": 422,
+      "height": 508,
+      "color": "6"
+    },
+    {
+      "id": "ultralearning-protocol",
+      "type": "text",
+      "text": "## Ultralearning 9 Principles\n\n1. **Metalearning** - 10% planning time\n2. **Focus** - Eliminate distractions\n3. **Directness** - Learn by doing\n4. **Drill** - Attack weak points\n5. **Retrieval** - Test yourself\n6. **Feedback** - Get corrective input\n7. **Retention** - Spaced repetition\n8. **Intuition** - Feynman technique\n9. **Experimentation** - Try new methods",
+      "x": 4000,
+      "y": 1700,
+      "width": 476,
+      "height": 368,
+      "color": "6"
+    },
+    {
+      "id": "optional-hub",
+      "type": "text",
+      "text": "# \u26aa OPTIONAL/ADVANCED\n## For 4+ Years Experience\n\nSystem design and specialized topics",
+      "x": -2500,
+      "y": 3600,
+      "width": 404,
+      "height": 172,
+      "color": "2"
+    },
+    {
+      "id": "system-design",
+      "type": "text",
+      "text": "## System Design\n\n- Scalability principles\n- Load balancing\n- Caching strategies\n- Database sharding\n- CAP theorem\n- Microservices\n\n**Prereq**: 4+ years experience",
+      "x": -3000,
+      "y": 4200,
+      "width": 386,
+      "height": 340,
+      "color": "2"
+    },
+    {
+      "id": "advanced-ds",
+      "type": "text",
+      "text": "## Advanced Data Structures\n\n- AVL Trees\n- Red-Black Trees\n- B-Trees\n- Splay Trees\n- Skip Lists\n- Bloom Filters",
+      "x": -2500,
+      "y": 4200,
+      "width": 395,
+      "height": 284,
+      "color": "2"
+    },
+    {
+      "id": "advanced-graph",
+      "type": "text",
+      "text": "## Advanced Graph\n\n- Network Flows\n- Bipartite Matching\n- Strongly Connected\n- Articulation Points\n- Union-Find\n- A* Search",
+      "x": -2000,
+      "y": 4200,
+      "width": 300,
+      "height": 284,
+      "color": "2"
+    },
+    {
+      "id": "math-topics",
+      "type": "text",
+      "text": "## Math for CP\n\n- Number Theory\n- Combinatorics\n- Probability\n- Linear Algebra\n- Game Theory",
+      "x": -3000,
+      "y": 4800,
+      "width": 300,
+      "height": 256,
+      "color": "2"
+    },
+    {
+      "id": "strings-adv",
+      "type": "text",
+      "text": "## String Algorithms\n\n- KMP Algorithm\n- Rabin-Karp\n- Z-Algorithm\n- Suffix Arrays\n- Aho-Corasick",
+      "x": -2500,
+      "y": 4800,
+      "width": 314,
+      "height": 256,
+      "color": "2"
+    },
+    {
+      "id": "job-prep-hub",
+      "type": "text",
+      "text": "# \ud83d\udcc4 JOB PREPARATION\n## Final Phase\n\nNon-coding interview elements",
+      "x": 2000,
+      "y": 3000,
+      "width": 341,
+      "height": 172,
+      "color": "5"
+    },
+    {
+      "id": "resume",
+      "type": "text",
+      "text": "## Resume\n\n- ATS optimization\n- STAR format\n- Quantify achievements\n- Tailor per company",
+      "x": 1750,
+      "y": 3600,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "behavioral",
+      "type": "text",
+      "text": "## Behavioral Questions\n\n- STAR method\n- Leadership examples\n- Conflict resolution\n- Failure stories",
+      "x": 2250,
+      "y": 3600,
+      "width": 349,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "company-research",
+      "type": "text",
+      "text": "## Company Research\n\n- Company values\n- Interview format\n- Team culture\n- Technical stack",
+      "x": 2000,
+      "y": 4200,
+      "width": 302,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "progress-tracker",
+      "type": "text",
+      "text": "# \ud83d\udcca PROGRESS TRACKING\n\n## Weekly Metrics\n- [ ] Deep work hours: ___/15 target\n- [ ] Problems solved: ___\n- [ ] New concepts learned: ___\n- [ ] Mock interviews: ___/1 target\n\n## Monthly Review\n- [ ] Weak areas identified\n- [ ] Topics mastered\n- [ ] Difficulty progression\n- [ ] Flow sessions count\n\n**Lead Measure**: Deep work hours\n**Lag Measure**: Interview performance",
+      "x": -6500,
+      "y": -1200,
+      "width": 456,
+      "height": 508,
+      "color": "6"
+    },
+    {
+      "id": "resources",
+      "type": "text",
+      "text": "# \ud83d\udcda KEY RESOURCES\n\n**Practice Platforms**:\n- LeetCode (interviews)\n- Codeforces (CP)\n- HackerRank\n\n**Learning**:\n- NeetCode 150\n- Blind 75\n- Tech Interview Handbook\n- CP-Algorithms.com\n\n**Frameworks**:\n- USACO Guide\n- Coding Interview University\n- AlgoMonster",
+      "x": -6500,
+      "y": -600,
+      "width": 341,
+      "height": 536,
+      "color": "6"
+    },
+    {
+      "id": "twopointers",
+      "type": "text",
+      "text": "## Two Pointers\n\n- Fast/slow pointers\n- Left/right pointers\n- Sliding window\n- O(n) traversal",
+      "x": -2500,
+      "y": -600,
+      "width": 300,
+      "height": 228,
+      "color": "4"
+    },
+    {
+      "id": "slidingwindow",
+      "type": "text",
+      "text": "## Sliding Window\n\n- Fixed size window\n- Variable size window\n- Substring problems\n- Max/Min in window",
+      "x": 1000,
+      "y": 2400,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "prefixsum",
+      "type": "text",
+      "text": "## Prefix Sum\n\n- Cumulative sums\n- Range queries O(1)\n- 2D prefix sums\n- Difference arrays",
+      "x": -3500,
+      "y": 0,
+      "width": 300,
+      "height": 228,
+      "color": "4"
+    },
+    {
+      "id": "unionfind",
+      "type": "text",
+      "text": "## Union-Find\n\n- Disjoint sets\n- Find with path compression\n- Union by rank\n- Connected components\n\n**Prereq**: Arrays, Graphs",
+      "x": 1000,
+      "y": 1800,
+      "width": 337,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "segmenttree",
+      "type": "text",
+      "text": "## Segment Trees\n\n- Range queries\n- Point updates\n- Lazy propagation\n- O(log n) operations\n\n**Advanced topic**",
+      "x": -500,
+      "y": 6600,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "topological",
+      "type": "text",
+      "text": "## Topological Sort\n\n- DAG ordering\n- Kahn's algorithm\n- DFS-based\n- Cycle detection",
+      "x": 2500,
+      "y": 600,
+      "width": 302,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "bellmanford",
+      "type": "text",
+      "text": "## Bellman-Ford\n\n- Negative edges\n- Negative cycle detect\n- O(VE) complexity\n- SPFA variant",
+      "x": -1000,
+      "y": 7200,
+      "width": 300,
+      "height": 228,
+      "color": "1"
+    },
+    {
+      "id": "floydwarshall",
+      "type": "text",
+      "text": "## Floyd-Warshall\n\n- All pairs shortest\n- O(V\u00b3) complexity\n- DP on intermediate\n- Path reconstruction",
+      "x": -500,
+      "y": 7200,
+      "width": 300,
+      "height": 228,
+      "color": "1"
+    },
+    {
+      "id": "countingsort",
+      "type": "text",
+      "text": "## Non-Comparison Sorts\n\n- Counting sort O(n+k)\n- Radix sort O(nk)\n- Bucket sort\n- Limited range req",
+      "x": 1500,
+      "y": 0,
+      "width": 349,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "fenwick",
+      "type": "text",
+      "text": "## Fenwick Tree (BIT)\n\n- Prefix sums\n- Point updates\n- O(log n) operations\n- Simpler than segment\n\n**Advanced topic**",
+      "x": 0,
+      "y": 6600,
+      "width": 325,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "interview-patterns",
+      "type": "text",
+      "text": "## Top Interview Patterns\n\n1. Two Pointers\n2. Sliding Window\n3. Fast & Slow Pointers\n4. Merge Intervals\n5. Binary Search Variants\n6. Tree BFS/DFS\n7. Topological Sort\n8. Dynamic Programming\n9. Backtracking\n10. Graph Traversal\n\n**Focus 70% practice on these**",
+      "x": -5000,
+      "y": 600,
+      "width": 386,
+      "height": 452,
+      "color": "3"
+    },
+    {
+      "id": "weekly-structure",
+      "type": "text",
+      "text": "# \ud83d\udcc5 WEEKLY STRUCTURE\n\n| Day | Focus Area |\n|-----|------------|\n| Mon | Data Structures |\n| Tue | Algorithms |\n| Wed | DP/Advanced |\n| Thu | Graphs |\n| Fri | Mock Interview |\n| Sat | Weak Areas + Extended |\n| Sun | Light Review + Rest |\n\n**Target**: 15 deep work hours/week\n**Rest**: 1 full recovery day",
+      "x": -6500,
+      "y": 0,
+      "width": 426,
+      "height": 452,
+      "color": "6"
+    },
+    {
+      "id": "merge-intervals",
+      "type": "text",
+      "text": "## Merge Intervals\n\n- Sort by start\n- Overlapping detection\n- Insert intervals\n- Meeting rooms",
+      "x": 1500,
+      "y": 2400,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "monotonic-stack",
+      "type": "text",
+      "text": "## Monotonic Stack\n\n- Next greater element\n- Daily temperatures\n- Histogram problems\n- Stock span\n\n**Prereq**: Stacks",
+      "x": -3000,
+      "y": 0,
+      "width": 300,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "deque",
+      "type": "text",
+      "text": "## Deque (Double-ended)\n\n- O(1) both ends\n- Sliding window max\n- BFS optimization\n- Monotonic deque\n\n**Prereq**: Queues",
+      "x": -2500,
+      "y": 0,
+      "width": 349,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "binary-search-variants",
+      "type": "text",
+      "text": "## Binary Search Variants\n\n- Lower/Upper bound\n- First/Last occurrence\n- Search in rotated\n- Peak element\n- Search on answer\n\n**Prereq**: Binary Search",
+      "x": -3500,
+      "y": 600,
+      "width": 372,
+      "height": 312,
+      "color": "4"
+    },
+    {
+      "id": "matrix-techniques",
+      "type": "text",
+      "text": "## Matrix Techniques\n\n- 2D traversal patterns\n- Spiral order\n- Rotate matrix\n- Search in 2D\n\n**Prereq**: Arrays",
+      "x": -3000,
+      "y": 600,
+      "width": 314,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "tree-dp",
+      "type": "text",
+      "text": "## Tree DP\n\n- DP on trees\n- Rerooting technique\n- Diameter of tree\n- Max path sum\n\n**Prereq**: DP, Trees",
+      "x": 0,
+      "y": 4800,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "digit-dp",
+      "type": "text",
+      "text": "## Digit DP\n\n- Counting numbers\n- Range digit queries\n- State: position, tight\n- Leading zeros\n\n**Advanced CP topic**",
+      "x": 0,
+      "y": 5400,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "dp-strings",
+      "type": "text",
+      "text": "## DP on Strings\n\n- Edit distance\n- LCS / LIS\n- Palindrome subseq\n- Word break\n\n**Prereq**: DP",
+      "x": -500,
+      "y": 6000,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "bipartite",
+      "type": "text",
+      "text": "## Bipartite Graphs\n\n- 2-coloring\n- BFS/DFS checking\n- Bipartite matching\n- Odd cycle detection\n\n**Prereq**: Graphs, BFS/DFS",
+      "x": 2000,
+      "y": 1200,
+      "width": 347,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "cycle-detection",
+      "type": "text",
+      "text": "## Cycle Detection\n\n- Directed: DFS coloring\n- Undirected: Union-Find\n- Floyd's algorithm\n- Back edges",
+      "x": 2500,
+      "y": 1200,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "connected-comp",
+      "type": "text",
+      "text": "## Connected Components\n\n- DFS/BFS counting\n- Union-Find approach\n- Island problems\n- Grid connectivity\n\n**Prereq**: Graphs",
+      "x": 1500,
+      "y": 1800,
+      "width": 349,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "tarjan-scc",
+      "type": "text",
+      "text": "## Tarjan's SCC\n\n- Strongly connected\n- Low-link values\n- Articulation points\n- Bridges\n\n**Advanced topic**",
+      "x": -2000,
+      "y": 4800,
+      "width": 300,
+      "height": 284,
+      "color": "2"
+    },
+    {
+      "id": "lca",
+      "type": "text",
+      "text": "## LCA (Lowest Common Ancestor)\n\n- Binary lifting\n- Euler tour\n- O(log n) queries\n- Tree paths",
+      "x": 1500,
+      "y": -1200,
+      "width": 442,
+      "height": 228,
+      "color": "1"
+    },
+    {
+      "id": "rmq",
+      "type": "text",
+      "text": "## Range Queries\n\n- Sparse tables\n- RMQ O(1) queries\n- O(n log n) build\n- Idempotent functions",
+      "x": 2000,
+      "y": -1200,
+      "width": 300,
+      "height": 228,
+      "color": "1"
+    },
+    {
+      "id": "divide-conquer",
+      "type": "text",
+      "text": "## Divide & Conquer\n\n- Merge sort paradigm\n- Binary search pattern\n- Master theorem\n- Count inversions\n\n**Prereq**: Recursion",
+      "x": -1000,
+      "y": 4200,
+      "width": 302,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "meet-middle",
+      "type": "text",
+      "text": "## Meet in the Middle\n\n- Split search space\n- 2^(n/2) complexity\n- Subset sums\n- Bidirectional search\n\n**Advanced technique**",
+      "x": -1000,
+      "y": 4800,
+      "width": 325,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "line-sweep",
+      "type": "text",
+      "text": "## Line Sweep\n\n- Event-based processing\n- Interval scheduling\n- Rectangle union area\n- Skyline problem\n\n**Advanced topic**",
+      "x": -3000,
+      "y": 5400,
+      "width": 300,
+      "height": 284,
+      "color": "2"
+    },
+    {
+      "id": "bit-tricks",
+      "type": "text",
+      "text": "## Bit Manipulation Tricks\n\n- Count set bits\n- Single number XOR\n- Subset generation\n- Brian Kernighan\n\n**Prereq**: Bitwise",
+      "x": -2500,
+      "y": 600,
+      "width": 384,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "hashing-techniques",
+      "type": "text",
+      "text": "## Hashing Techniques\n\n- Rolling hash\n- Rabin fingerprint\n- Polynomial hashing\n- Collision handling\n\n**Prereq**: Hash Tables",
+      "x": -3000,
+      "y": 1200,
+      "width": 325,
+      "height": 284,
+      "color": "4"
+    },
+    {
+      "id": "balanced-bst",
+      "type": "text",
+      "text": "## Balanced BSTs\n\n- Rotation operations\n- Height balancing\n- AVL property\n- Red-black intro\n\n**Prereq**: BST",
+      "x": 2500,
+      "y": -1800,
+      "width": 300,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "string-matching",
+      "type": "text",
+      "text": "## String Matching\n\n- Naive O(nm)\n- KMP O(n+m)\n- Z-algorithm\n- Rabin-Karp hashing\n\n**Prereq**: Strings",
+      "x": -2500,
+      "y": 5400,
+      "width": 300,
+      "height": 284,
+      "color": "2"
+    },
+    {
+      "id": "intervals",
+      "type": "text",
+      "text": "## Interval Problems\n\n**Common patterns**:\n- Merge overlapping\n- Insert interval\n- Non-overlapping count\n- Meeting rooms I/II\n\n**Sort by start/end**",
+      "x": -5500,
+      "y": 1200,
+      "width": 314,
+      "height": 312,
+      "color": "3"
+    },
+    {
+      "id": "in-place-algos",
+      "type": "text",
+      "text": "## In-Place Algorithms\n\n- Space O(1) tricks\n- Array as hash map\n- Cyclic sort\n- Dutch flag partition\n\n**Interview favorite**",
+      "x": -5000,
+      "y": 1800,
+      "width": 337,
+      "height": 284,
+      "color": "3"
+    },
+    {
+      "id": "subarray-problems",
+      "type": "text",
+      "text": "## Subarray Problems\n\n- Kadane's algorithm\n- Max subarray sum\n- Subarray with sum K\n- Product except self\n\n**Very common pattern**",
+      "x": -5000,
+      "y": 1200,
+      "width": 314,
+      "height": 284,
+      "color": "3"
+    },
+    {
+      "id": "palindrome-tech",
+      "type": "text",
+      "text": "## Palindrome Techniques\n\n- Two pointer check\n- Expand around center\n- Manacher's algo\n- DP approach",
+      "x": -5500,
+      "y": 1800,
+      "width": 360,
+      "height": 228,
+      "color": "3"
+    },
+    {
+      "id": "fast-slow-detailed",
+      "type": "text",
+      "text": "## Fast & Slow Pointers\n\n- Cycle detection\n- Middle of list\n- Happy number\n- Cycle start finding\n\n**Floyd's algorithm**",
+      "x": -5250,
+      "y": 2400,
+      "width": 349,
+      "height": 284,
+      "color": "3"
+    },
+    {
+      "id": "recursion-patterns",
+      "type": "text",
+      "text": "## Recursion Patterns\n\n- Generate combinations\n- Generate permutations\n- Generate subsets\n- Generate parentheses\n\n**Build recursion intuition**",
+      "x": -1000,
+      "y": 5400,
+      "width": 367,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "backtrack-templates",
+      "type": "text",
+      "text": "## Backtracking Templates\n\n- N-Queens pattern\n- Sudoku solver\n- Word search\n- Combination sum\n\n**Master the template**",
+      "x": -500,
+      "y": 5400,
+      "width": 372,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "greedy-patterns",
+      "type": "text",
+      "text": "## Greedy Patterns\n\n- Activity selection\n- Jump game\n- Gas station\n- Task scheduler\n\n**Prove correctness**",
+      "x": -1000,
+      "y": 6000,
+      "width": 300,
+      "height": 284,
+      "color": "1"
+    },
+    {
+      "id": "graph-coloring",
+      "type": "text",
+      "text": "## Graph Coloring\n\n- M-coloring problem\n- Chromatic number\n- Greedy coloring\n- Scheduling apps",
+      "x": 2000,
+      "y": 1800,
+      "width": 300,
+      "height": 228,
+      "color": "5"
+    },
+    {
+      "id": "shortest-path-summary",
+      "type": "text",
+      "text": "## Shortest Paths Summary\n\n| Algorithm | Use Case |\n|-----------|----------|\n| BFS | Unweighted |\n| Dijkstra | Non-negative |\n| Bellman-Ford | Negative edges |\n| Floyd | All pairs |",
+      "x": 2500,
+      "y": 1800,
+      "width": 436,
+      "height": 284,
+      "color": "5"
+    },
+    {
+      "id": "common-mistakes",
+      "type": "text",
+      "text": "# \u26a0\ufe0f COMMON MISTAKES\n\n- Off-by-one errors\n- Integer overflow\n- Edge cases: empty, single\n- Not clarifying requirements\n- Jumping to code too fast\n- Not testing with examples\n- Ignoring time complexity\n- Forgetting base cases\n- Not handling null/None\n\n**Always: Think \u2192 Plan \u2192 Code \u2192 Test**",
+      "x": -6500,
+      "y": 600,
+      "width": 456,
+      "height": 424,
+      "color": "6"
+    },
+    {
+      "id": "interleaving-tip",
+      "type": "text",
+      "text": "## Interleaving Practice\n\n**Effect size**: g = 0.42\n\nMix problem types:\n\u274c 10 array \u2192 10 tree \u2192 10 graph\n\u2705 Array \u2192 Tree \u2192 Graph \u2192 Array...\n\nBenefits:\n- Better discrimination\n- Stronger retrieval cues\n- Real interview simulation",
+      "x": 4550,
+      "y": 1700,
+      "width": 377,
+      "height": 396,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "hub-main",
+      "fromSide": "left",
+      "toNode": "foundations-hub",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e2",
+      "fromNode": "hub-main",
+      "fromSide": "right",
+      "toNode": "intermediate-hub",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e3",
+      "fromNode": "hub-main",
+      "fromSide": "bottom",
+      "toNode": "advanced-hub",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "hub-main",
+      "fromSide": "left",
+      "toNode": "practice-hub",
+      "toSide": "right"
+    },
+    {
+      "id": "e5",
+      "fromNode": "hub-main",
+      "fromSide": "right",
+      "toNode": "protocol-hub",
+      "toSide": "left"
+    },
+    {
+      "id": "e6",
+      "fromNode": "foundations-hub",
+      "fromSide": "left",
+      "toNode": "bigo",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "foundations-hub",
+      "fromSide": "bottom",
+      "toNode": "arrays",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "foundations-hub",
+      "fromSide": "bottom",
+      "toNode": "linkedlists",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "bigo",
+      "fromSide": "right",
+      "toNode": "arrays",
+      "toSide": "left"
+    },
+    {
+      "id": "e10",
+      "fromNode": "arrays",
+      "fromSide": "right",
+      "toNode": "linkedlists",
+      "toSide": "left"
+    },
+    {
+      "id": "e11",
+      "fromNode": "arrays",
+      "fromSide": "bottom",
+      "toNode": "stacks",
+      "toSide": "top"
+    },
+    {
+      "id": "e12",
+      "fromNode": "arrays",
+      "fromSide": "bottom",
+      "toNode": "queues",
+      "toSide": "top"
+    },
+    {
+      "id": "e13",
+      "fromNode": "arrays",
+      "fromSide": "bottom",
+      "toNode": "hashtables",
+      "toSide": "top"
+    },
+    {
+      "id": "e14",
+      "fromNode": "arrays",
+      "fromSide": "bottom",
+      "toNode": "binarysearch",
+      "toSide": "top"
+    },
+    {
+      "id": "e15",
+      "fromNode": "intermediate-hub",
+      "fromSide": "bottom",
+      "toNode": "trees-main",
+      "toSide": "top"
+    },
+    {
+      "id": "e16",
+      "fromNode": "intermediate-hub",
+      "fromSide": "bottom",
+      "toNode": "sorting-main",
+      "toSide": "top"
+    },
+    {
+      "id": "e17",
+      "fromNode": "linkedlists",
+      "fromSide": "right",
+      "toNode": "trees-main",
+      "toSide": "left"
+    },
+    {
+      "id": "e18",
+      "fromNode": "trees-main",
+      "fromSide": "right",
+      "toNode": "bst",
+      "toSide": "left"
+    },
+    {
+      "id": "e19",
+      "fromNode": "bst",
+      "fromSide": "right",
+      "toNode": "heaps",
+      "toSide": "left"
+    },
+    {
+      "id": "e20",
+      "fromNode": "trees-main",
+      "fromSide": "bottom",
+      "toNode": "traversals",
+      "toSide": "top"
+    },
+    {
+      "id": "e21",
+      "fromNode": "sorting-main",
+      "fromSide": "bottom",
+      "toNode": "mergesort",
+      "toSide": "top"
+    },
+    {
+      "id": "e22",
+      "fromNode": "sorting-main",
+      "fromSide": "bottom",
+      "toNode": "quicksort",
+      "toSide": "top"
+    },
+    {
+      "id": "e23",
+      "fromNode": "sorting-main",
+      "fromSide": "bottom",
+      "toNode": "heapsort",
+      "toSide": "top"
+    },
+    {
+      "id": "e24",
+      "fromNode": "hashtables",
+      "fromSide": "right",
+      "toNode": "graphs-main",
+      "toSide": "left"
+    },
+    {
+      "id": "e25",
+      "fromNode": "graphs-main",
+      "fromSide": "right",
+      "toNode": "graph-bfs",
+      "toSide": "left"
+    },
+    {
+      "id": "e26",
+      "fromNode": "graph-bfs",
+      "fromSide": "right",
+      "toNode": "graph-dfs",
+      "toSide": "left"
+    },
+    {
+      "id": "e27",
+      "fromNode": "graph-bfs",
+      "fromSide": "bottom",
+      "toNode": "dijkstra",
+      "toSide": "top"
+    },
+    {
+      "id": "e28",
+      "fromNode": "dijkstra",
+      "fromSide": "right",
+      "toNode": "mst",
+      "toSide": "left"
+    },
+    {
+      "id": "e29",
+      "fromNode": "advanced-hub",
+      "fromSide": "left",
+      "toNode": "recursion",
+      "toSide": "top"
+    },
+    {
+      "id": "e30",
+      "fromNode": "advanced-hub",
+      "fromSide": "right",
+      "toNode": "dp",
+      "toSide": "top"
+    },
+    {
+      "id": "e31",
+      "fromNode": "recursion",
+      "fromSide": "right",
+      "toNode": "backtracking",
+      "toSide": "left"
+    },
+    {
+      "id": "e32",
+      "fromNode": "backtracking",
+      "fromSide": "right",
+      "toNode": "dp",
+      "toSide": "left"
+    },
+    {
+      "id": "e33",
+      "fromNode": "dp",
+      "fromSide": "bottom",
+      "toNode": "dp-patterns",
+      "toSide": "top"
+    },
+    {
+      "id": "e34",
+      "fromNode": "recursion",
+      "fromSide": "bottom",
+      "toNode": "greedy",
+      "toSide": "top"
+    },
+    {
+      "id": "e35",
+      "fromNode": "dp",
+      "fromSide": "right",
+      "toNode": "npcomplete",
+      "toSide": "left"
+    },
+    {
+      "id": "e36",
+      "fromNode": "practice-hub",
+      "fromSide": "bottom",
+      "toNode": "leetcode-practice",
+      "toSide": "top"
+    },
+    {
+      "id": "e37",
+      "fromNode": "practice-hub",
+      "fromSide": "bottom",
+      "toNode": "mock-interviews",
+      "toSide": "top"
+    },
+    {
+      "id": "e38",
+      "fromNode": "practice-hub",
+      "fromSide": "bottom",
+      "toNode": "implementation",
+      "toSide": "top"
+    },
+    {
+      "id": "e39",
+      "fromNode": "protocol-hub",
+      "fromSide": "bottom",
+      "toNode": "daily-schedule",
+      "toSide": "top"
+    },
+    {
+      "id": "e40",
+      "fromNode": "protocol-hub",
+      "fromSide": "right",
+      "toNode": "spaced-rep",
+      "toSide": "top"
+    },
+    {
+      "id": "e41",
+      "fromNode": "daily-schedule",
+      "fromSide": "bottom",
+      "toNode": "flow-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e42",
+      "fromNode": "spaced-rep",
+      "fromSide": "bottom",
+      "toNode": "huberman-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e43",
+      "fromNode": "flow-protocol",
+      "fromSide": "bottom",
+      "toNode": "sleep-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e44",
+      "fromNode": "huberman-protocol",
+      "fromSide": "bottom",
+      "toNode": "encoding-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e45",
+      "fromNode": "optional-hub",
+      "fromSide": "bottom",
+      "toNode": "system-design",
+      "toSide": "top"
+    },
+    {
+      "id": "e46",
+      "fromNode": "optional-hub",
+      "fromSide": "bottom",
+      "toNode": "advanced-ds",
+      "toSide": "top"
+    },
+    {
+      "id": "e47",
+      "fromNode": "optional-hub",
+      "fromSide": "bottom",
+      "toNode": "advanced-graph",
+      "toSide": "top"
+    },
+    {
+      "id": "e48",
+      "fromNode": "job-prep-hub",
+      "fromSide": "bottom",
+      "toNode": "resume",
+      "toSide": "top"
+    },
+    {
+      "id": "e49",
+      "fromNode": "job-prep-hub",
+      "fromSide": "bottom",
+      "toNode": "behavioral",
+      "toSide": "top"
+    },
+    {
+      "id": "e50",
+      "fromNode": "resume",
+      "fromSide": "bottom",
+      "toNode": "company-research",
+      "toSide": "top"
+    },
+    {
+      "id": "e51",
+      "fromNode": "behavioral",
+      "fromSide": "bottom",
+      "toNode": "company-research",
+      "toSide": "top"
+    },
+    {
+      "id": "e52",
+      "fromNode": "arrays",
+      "fromSide": "right",
+      "toNode": "twopointers",
+      "toSide": "left"
+    },
+    {
+      "id": "e53",
+      "fromNode": "twopointers",
+      "fromSide": "right",
+      "toNode": "slidingwindow",
+      "toSide": "left"
+    },
+    {
+      "id": "e54",
+      "fromNode": "arrays",
+      "fromSide": "bottom",
+      "toNode": "prefixsum",
+      "toSide": "top"
+    },
+    {
+      "id": "e55",
+      "fromNode": "graphs-main",
+      "fromSide": "bottom",
+      "toNode": "unionfind",
+      "toSide": "top"
+    },
+    {
+      "id": "e56",
+      "fromNode": "graph-dfs",
+      "fromSide": "right",
+      "toNode": "topological",
+      "toSide": "left"
+    },
+    {
+      "id": "e57",
+      "fromNode": "dijkstra",
+      "fromSide": "right",
+      "toNode": "bellmanford",
+      "toSide": "left"
+    },
+    {
+      "id": "e58",
+      "fromNode": "bellmanford",
+      "fromSide": "bottom",
+      "toNode": "floydwarshall",
+      "toSide": "top"
+    },
+    {
+      "id": "e59",
+      "fromNode": "trees-main",
+      "fromSide": "bottom",
+      "toNode": "tries",
+      "toSide": "top"
+    },
+    {
+      "id": "e60",
+      "fromNode": "heaps",
+      "fromSide": "bottom",
+      "toNode": "segmenttree",
+      "toSide": "top"
+    },
+    {
+      "id": "e61",
+      "fromNode": "segmenttree",
+      "fromSide": "right",
+      "toNode": "fenwick",
+      "toSide": "left"
+    },
+    {
+      "id": "e62",
+      "fromNode": "practice-hub",
+      "fromSide": "bottom",
+      "toNode": "interview-patterns",
+      "toSide": "top"
+    },
+    {
+      "id": "e63",
+      "fromNode": "protocol-hub",
+      "fromSide": "right",
+      "toNode": "deepwork-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e64",
+      "fromNode": "deepwork-protocol",
+      "fromSide": "bottom",
+      "toNode": "colin-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e65",
+      "fromNode": "colin-protocol",
+      "fromSide": "bottom",
+      "toNode": "ultralearning-protocol",
+      "toSide": "top"
+    },
+    {
+      "id": "e66",
+      "fromNode": "slidingwindow",
+      "fromSide": "bottom",
+      "toNode": "merge-intervals",
+      "toSide": "top"
+    },
+    {
+      "id": "e67",
+      "fromNode": "stacks",
+      "fromSide": "bottom",
+      "toNode": "monotonic-stack",
+      "toSide": "top"
+    },
+    {
+      "id": "e68",
+      "fromNode": "queues",
+      "fromSide": "bottom",
+      "toNode": "deque",
+      "toSide": "top"
+    },
+    {
+      "id": "e69",
+      "fromNode": "binarysearch",
+      "fromSide": "bottom",
+      "toNode": "binary-search-variants",
+      "toSide": "top"
+    },
+    {
+      "id": "e70",
+      "fromNode": "prefixsum",
+      "fromSide": "right",
+      "toNode": "matrix-techniques",
+      "toSide": "left"
+    },
+    {
+      "id": "e71",
+      "fromNode": "dp-patterns",
+      "fromSide": "right",
+      "toNode": "tree-dp",
+      "toSide": "left"
+    },
+    {
+      "id": "e72",
+      "fromNode": "tree-dp",
+      "fromSide": "bottom",
+      "toNode": "digit-dp",
+      "toSide": "right"
+    },
+    {
+      "id": "e73",
+      "fromNode": "dp-patterns",
+      "fromSide": "bottom",
+      "toNode": "dp-strings",
+      "toSide": "right"
+    },
+    {
+      "id": "e74",
+      "fromNode": "graphs-main",
+      "fromSide": "bottom",
+      "toNode": "bipartite",
+      "toSide": "top"
+    },
+    {
+      "id": "e75",
+      "fromNode": "mst",
+      "fromSide": "bottom",
+      "toNode": "cycle-detection",
+      "toSide": "top"
+    },
+    {
+      "id": "e76",
+      "fromNode": "unionfind",
+      "fromSide": "bottom",
+      "toNode": "connected-comp",
+      "toSide": "top"
+    },
+    {
+      "id": "e77",
+      "fromNode": "advanced-graph",
+      "fromSide": "right",
+      "toNode": "tarjan-scc",
+      "toSide": "left"
+    },
+    {
+      "id": "e78",
+      "fromNode": "bst",
+      "fromSide": "right",
+      "toNode": "lca",
+      "toSide": "left"
+    },
+    {
+      "id": "e79",
+      "fromNode": "heaps",
+      "fromSide": "right",
+      "toNode": "rmq",
+      "toSide": "left"
+    },
+    {
+      "id": "e80",
+      "fromNode": "recursion",
+      "fromSide": "left",
+      "toNode": "divide-conquer",
+      "toSide": "right"
+    },
+    {
+      "id": "e81",
+      "fromNode": "divide-conquer",
+      "fromSide": "bottom",
+      "toNode": "meet-middle",
+      "toSide": "top"
+    },
+    {
+      "id": "e82",
+      "fromNode": "strings-adv",
+      "fromSide": "right",
+      "toNode": "line-sweep",
+      "toSide": "top"
+    },
+    {
+      "id": "e83",
+      "fromNode": "bitwise",
+      "fromSide": "bottom",
+      "toNode": "bit-tricks",
+      "toSide": "top"
+    },
+    {
+      "id": "e84",
+      "fromNode": "hashtables",
+      "fromSide": "bottom",
+      "toNode": "hashing-techniques",
+      "toSide": "top"
+    },
+    {
+      "id": "e85",
+      "fromNode": "bst",
+      "fromSide": "bottom",
+      "toNode": "balanced-bst",
+      "toSide": "top"
+    },
+    {
+      "id": "e86",
+      "fromNode": "strings-adv",
+      "fromSide": "bottom",
+      "toNode": "string-matching",
+      "toSide": "top"
+    },
+    {
+      "id": "e87",
+      "fromNode": "interview-patterns",
+      "fromSide": "left",
+      "toNode": "intervals",
+      "toSide": "right"
+    },
+    {
+      "id": "e88",
+      "fromNode": "interview-patterns",
+      "fromSide": "right",
+      "toNode": "in-place-algos",
+      "toSide": "left"
+    },
+    {
+      "id": "e89",
+      "fromNode": "leetcode-practice",
+      "fromSide": "right",
+      "toNode": "subarray-problems",
+      "toSide": "left"
+    },
+    {
+      "id": "e90",
+      "fromNode": "subarray-problems",
+      "fromSide": "right",
+      "toNode": "palindrome-tech",
+      "toSide": "left"
+    },
+    {
+      "id": "e91",
+      "fromNode": "implementation",
+      "fromSide": "bottom",
+      "toNode": "fast-slow-detailed",
+      "toSide": "top"
+    },
+    {
+      "id": "e92",
+      "fromNode": "recursion",
+      "fromSide": "bottom",
+      "toNode": "recursion-patterns",
+      "toSide": "top"
+    },
+    {
+      "id": "e93",
+      "fromNode": "backtracking",
+      "fromSide": "bottom",
+      "toNode": "backtrack-templates",
+      "toSide": "top"
+    },
+    {
+      "id": "e94",
+      "fromNode": "greedy",
+      "fromSide": "bottom",
+      "toNode": "greedy-patterns",
+      "toSide": "top"
+    },
+    {
+      "id": "e95",
+      "fromNode": "connected-comp",
+      "fromSide": "right",
+      "toNode": "graph-coloring",
+      "toSide": "left"
+    },
+    {
+      "id": "e96",
+      "fromNode": "dijkstra",
+      "fromSide": "bottom",
+      "toNode": "shortest-path-summary",
+      "toSide": "top"
+    },
+    {
+      "id": "e97",
+      "fromNode": "ultralearning-protocol",
+      "fromSide": "bottom",
+      "toNode": "interleaving-tip",
+      "toSide": "top"
+    }
+  ]
+}
