@@ -1,0 +1,589 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[coding-interview-university]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>coding-interview-university</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 18 Jan 2026 04:18:19 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 18 Jan 2026 04:18:07 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[interview-learning-system]]></title><description><![CDATA[9 Learning Frameworks Synthesized
+90-min ultradian focus blocks
+4% challenge stretch rule
+Sleep-first memory consolidation
+Spaced repetition (d=0.54)
+Master these first before proceeding.
+Estimated time: 2-3 weeks
+Time complexity analysis
+Space complexity
+Best/Average/Worst case
+Amortized analysis
+Priority: CRITICAL
+Flow trigger: Clear goal
+Static vs dynamic
+Contiguous memory
+O(1) access
+Two-pointer technique
+Prereq: Big-O
+Singly linked
+Doubly linked
+Circular
+Fast/slow pointers
+Prereq: Arrays
+LIFO principle
+Push/Pop O(1)
+Applications: parsing, undo
+Monotonic stacks
+Prereq: Arrays
+FIFO principle
+Enqueue/Dequeue O(1)
+Circular queues
+Priority queues (intro)
+Prereq: Arrays
+Hash functions
+Collision handling
+O(1) average lookup
+Sets vs Maps
+Priority: CRITICAL
+Prereq: Arrays
+O(log n) search
+Sorted arrays
+Search space reduction
+Bisect variations
+Prereq: Arrays, Big-O
+AND, OR, XOR, NOT
+Bit manipulation tricks
+Bit masks
+Power of 2 checks
+Prereq: Basic mathCore algorithms and data structures.
+Estimated time: 4-6 weeks
+Tree terminology
+Binary trees
+N-ary trees
+Tree properties
+Prereq: Linked Lists, Recursion
+BST property
+Insert/Delete/Search
+Inorder traversal = sorted
+Self-balancing intro
+Prereq: Trees
+Min-heap / Max-heap
+Heap property
+Heapify O(n)
+Top-K problems
+Priority: HIGH
+Prereq: Trees, Arrays
+DFS: Preorder, Inorder, Postorder
+BFS: Level order
+Iterative vs Recursive
+Morris traversal
+Prereq: Trees, Stacks, Queues
+Comparison sorts
+Stability concept
+In-place sorting
+Best algorithm choice
+Prereq: Arrays, Big-O
+Divide and conquer
+O(n log n) always
+Stable sort
+External sorting Partition scheme
+O(n log n) average
+In-place
+Pivot selection Heap-based sorting
+O(n log n) worst
+In-place
+Not stable Selection sort
+Insertion sort
+Bubble sort
+Good for small n Directed vs Undirected
+Weighted vs Unweighted
+Adjacency list/matrix
+Graph terminology
+Priority: HIGH
+Prereq: Hash Tables, Trees
+Level-order traversal
+Shortest path (unweighted)
+Queue-based
+O(V + E) Stack/recursion
+Path finding
+Cycle detection
+Topological sort Shortest path (weighted)
+Non-negative edges
+Priority queue
+O(E log V) Prim's algorithm
+Kruskal's algorithm
+Union-Find for Kruskal
+Minimum spanning tree
+Complex algorithms and patterns.
+Estimated time: 4-8 weeks
+Base cases
+Recursive step
+Call stack
+Tail recursion
+Prereq: All foundations
+State space tree
+Pruning strategies
+Permutations/Combinations
+N-Queens, Sudoku
+Prereq: Recursion, DFS
+Overlapping subproblems
+Optimal substructure
+Memoization vs Tabulation
+State definition
+Priority: CRITICAL
+Prereq: Recursion
+0/1 Knapsack
+Unbounded Knapsack
+LCS/LIS
+Matrix chain
+Interval DP
+Bitmask DP Greedy choice property
+Optimal substructure
+Activity selection
+Huffman coding
+Prereq: Big-O, Sorting
+Singleton, Factory
+Observer, Strategy
+Decorator, Adapter
+OOP principles
+Prereq: OOP basics
+P vs NP
+NP-Hard problems
+Reduction proofs
+Approximation algos
+Prereq: All algorithms
+Prefix trees
+Autocomplete
+Spell checking
+Word search
+Prereq: Trees, StringsApply knowledge throughout.
+Integrated with all phases.Colin Galen 30-40% Rule
+Find difficulty where you solve
+30-40% without hints.
+Easy: 15 min max
+Medium: 30 min max
+Hard: 45-60 min max Weekly practice
+Explain thinking aloud
+Time yourself (45 min)
+Review and improve
+Flow trigger: Risk/consequence
+Write from scratch
+No copy-paste
+Build intuition
+Feynman technique
+Ultralearning: DirectnessEvidence-based strategies for
+optimal skill acquisitionMORNING BLOCK (90 min)
+5 min: Review yesterday (retrieval)
+60 min: Deep work on new topic
+15 min: Active recall practice
+10 min: GRINDE mind mapping
+AFTERNOON BLOCK (90 min)
+5 min: Problem selection (4% rule)
+60 min: Problem solving (flow zone)
+15 min: Solution analysis
+10 min: Pattern documentation
+EVENING (30-60 min)
+Spaced repetition review
+Implementation practice
+Next day planning
+RECOVERY: NSDR 10-20 min post-learningEffect size: d = 0.5422 Triggers (Top 5 for coding):
+Clear goals - Define problem first
+Immediate feedback - Run tests
+Challenge/skill balance - 4% stretch
+Complete concentration - No distractions
+Deep embodiment - Standing desk
+Flow Cycle:
+STRUGGLE (20-45 min) - Load the brain
+RELEASE (15 min) - Walk away
+FLOW (45-90 min) - Peak performance
+RECOVERY (30+ min) - Rest required
+90-min Ultradian Blocks
+First 5-10 min = warm-up
+Middle 60-70 min = peak
+Natural decline at end
+Gap Effects
+Insert 10-sec pauses during practice
+Brain replays at 20x speed
+~1 pause per 2 min of learning
+Post-Learning
+Cold exposure spikes adrenaline
+NSDR accelerates consolidation
+Caffeine after (not before) learning
+Bryan Johnson + Huberman
+8+ hours sleep (7-9 optimal)
+Consistent bed/wake times
+First 4 hours most critical
+Morning light exposure (10-30 min)
+No screens 60 min before bed
+Memory consolidation during sleep
+20-40% deficit without proper sleep
+GRINDE Mind Mapping
+G: Grouped concepts
+R: Reflective questioning
+I: Interconnected nodes
+N: Non-verbal (symbols)
+D: Directional flow
+E: Emphasized key points
+Core Principle:
+Encoding quality &gt; Retrieval quantity4 Philosophies (pick one):
+Monastic - Full isolation
+Bimodal - Days for deep/shallow
+Rhythmic - Same time daily
+Journalistic - Fit it in
+Time Blocking:
+Plan every 30-min block
+Evening planning for next day
+Shutdown ritual at end
+Formula:
+Output = Time × Intensity30-40% Success Rule
+Find problems where you solve
+30-40% without help.Black Box Method:
+Use algo without full understanding
+Focus on I/O and when to apply
+Gradually deepen knowledge
+Upsolving:
+Revisit unsolved problems
+Try 15-30 min fresh
+Read editorial only after stuck
+Implement without looking at code Metalearning - 10% planning time
+Focus - Eliminate distractions
+Directness - Learn by doing
+Drill - Attack weak points
+Retrieval - Test yourself
+Feedback - Get corrective input
+Retention - Spaced repetition
+Intuition - Feynman technique
+Experimentation - Try new methods
+System design and specialized topics
+Scalability principles
+Load balancing
+Caching strategies
+Database sharding
+CAP theorem
+Microservices
+Prereq: 4+ years experience
+AVL Trees
+Red-Black Trees
+B-Trees
+Splay Trees
+Skip Lists
+Bloom Filters Network Flows
+Bipartite Matching
+Strongly Connected
+Articulation Points
+Union-Find
+A* Search Number Theory
+Combinatorics
+Probability
+Linear Algebra
+Game Theory KMP Algorithm
+Rabin-Karp
+Z-Algorithm
+Suffix Arrays
+Aho-Corasick
+Non-coding interview elements
+ATS optimization
+STAR format
+Quantify achievements
+Tailor per company STAR method
+Leadership examples
+Conflict resolution
+Failure stories Company values
+Interview format
+Team culture
+Technical stack Deep work hours: ___/15 target
+Problems solved: ___
+New concepts learned: ___
+Mock interviews: ___/1 target Weak areas identified
+Topics mastered
+Difficulty progression
+Flow sessions count
+Lead Measure: Deep work hours
+Lag Measure: Interview performancePractice Platforms:
+LeetCode (interviews)
+Codeforces (CP)
+HackerRank
+Learning:
+NeetCode 150
+Blind 75
+Tech Interview Handbook
+CP-Algorithms.com
+Frameworks:
+USACO Guide
+Coding Interview University
+AlgoMonster Fast/slow pointers
+Left/right pointers
+Sliding window
+O(n) traversal Fixed size window
+Variable size window
+Substring problems
+Max/Min in window Cumulative sums
+Range queries O(1)
+2D prefix sums
+Difference arrays Disjoint sets
+Find with path compression
+Union by rank
+Connected components
+Prereq: Arrays, Graphs
+Range queries
+Point updates
+Lazy propagation
+O(log n) operations
+Advanced topic
+DAG ordering
+Kahn's algorithm
+DFS-based
+Cycle detection Negative edges
+Negative cycle detect
+O(VE) complexity
+SPFA variant All pairs shortest
+O(V³) complexity
+DP on intermediate
+Path reconstruction Counting sort O(n+k)
+Radix sort O(nk)
+Bucket sort
+Limited range req Prefix sums
+Point updates
+O(log n) operations
+Simpler than segment
+Advanced topic
+Two Pointers
+Sliding Window
+Fast &amp; Slow Pointers
+Merge Intervals
+Binary Search Variants
+Tree BFS/DFS
+Topological Sort
+Dynamic Programming
+Backtracking
+Graph Traversal
+Focus 70% practice on theseTarget: 15 deep work hours/week
+Rest: 1 full recovery day
+Sort by start
+Overlapping detection
+Insert intervals
+Meeting rooms Next greater element
+Daily temperatures
+Histogram problems
+Stock span
+Prereq: Stacks
+O(1) both ends
+Sliding window max
+BFS optimization
+Monotonic deque
+Prereq: Queues
+Lower/Upper bound
+First/Last occurrence
+Search in rotated
+Peak element
+Search on answer
+Prereq: Binary Search
+2D traversal patterns
+Spiral order
+Rotate matrix
+Search in 2D
+Prereq: Arrays
+DP on trees
+Rerooting technique
+Diameter of tree
+Max path sum
+Prereq: DP, Trees
+Counting numbers
+Range digit queries
+State: position, tight
+Leading zeros
+Advanced CP topic
+Edit distance
+LCS / LIS
+Palindrome subseq
+Word break
+Prereq: DP
+2-coloring
+BFS/DFS checking
+Bipartite matching
+Odd cycle detection
+Prereq: Graphs, BFS/DFS
+Directed: DFS coloring
+Undirected: Union-Find
+Floyd's algorithm
+Back edges DFS/BFS counting
+Union-Find approach
+Island problems
+Grid connectivity
+Prereq: Graphs
+Strongly connected
+Low-link values
+Articulation points
+Bridges
+Advanced topic
+Binary lifting
+Euler tour
+O(log n) queries
+Tree paths Sparse tables
+RMQ O(1) queries
+O(n log n) build
+Idempotent functions Merge sort paradigm
+Binary search pattern
+Master theorem
+Count inversions
+Prereq: Recursion
+Split search space
+2^(n/2) complexity
+Subset sums
+Bidirectional search
+Advanced technique
+Event-based processing
+Interval scheduling
+Rectangle union area
+Skyline problem
+Advanced topic
+Count set bits
+Single number XOR
+Subset generation
+Brian Kernighan
+Prereq: Bitwise
+Rolling hash
+Rabin fingerprint
+Polynomial hashing
+Collision handling
+Prereq: Hash Tables
+Rotation operations
+Height balancing
+AVL property
+Red-black intro
+Prereq: BST
+Naive O(nm)
+KMP O(n+m)
+Z-algorithm
+Rabin-Karp hashing
+Prereq: StringsCommon patterns:
+Merge overlapping
+Insert interval
+Non-overlapping count
+Meeting rooms I/II
+Sort by start/end
+Space O(1) tricks
+Array as hash map
+Cyclic sort
+Dutch flag partition
+Interview favorite
+Kadane's algorithm
+Max subarray sum
+Subarray with sum K
+Product except self
+Very common pattern
+Two pointer check
+Expand around center
+Manacher's algo
+DP approach Cycle detection
+Middle of list
+Happy number
+Cycle start finding
+Floyd's algorithm
+Generate combinations
+Generate permutations
+Generate subsets
+Generate parentheses
+Build recursion intuition
+N-Queens pattern
+Sudoku solver
+Word search
+Combination sum
+Master the template
+Activity selection
+Jump game
+Gas station
+Task scheduler
+Prove correctness
+M-coloring problem
+Chromatic number
+Greedy coloring
+Scheduling apps Off-by-one errors
+Integer overflow
+Edge cases: empty, single
+Not clarifying requirements
+Jumping to code too fast
+Not testing with examples
+Ignoring time complexity
+Forgetting base cases
+Not handling null/None
+Always: Think → Plan → Code → TestEffect size: g = 0.42Mix problem types:
+❌ 10 array → 10 tree → 10 graph
+✅ Array → Tree → Graph → Array...Benefits:
+Better discrimination
+Stronger retrieval cues
+Real interview simulation
+]]></description><link>interview-learning-system.html</link><guid isPermaLink="false">interview-learning-system.canvas</guid><pubDate>Sun, 18 Jan 2026 04:11:53 GMT</pubDate></item><item><title><![CDATA[Harsha Venkayalapti]]></title><description><![CDATA[Date: January 13th, 2026
+Focus: dealing with burnout, deep work optimization and recovery strategies
+Experiment with the 90-second morning work protocol, if possible
+Track deep work sessions and note duration/quality
+Cut out low-leverage work ruthlessly by applying the Pareto Principle
+Focus on active recovery, use the body to quell the mind Practice NSDR or walking between sessions (no phone)
+Try stress management (like Yoga or Tai Chi)
+Hit the sauna specifically for recovery Experiment with caffeine intake (delay 1-2 hours post-wake)
+Add one Norwegian 4x4 session this week
+Try one Zone 2 session (different day) or REHIT if time-constrained
+Looking forward to hearing how it goes!Your dopamine availability is highest when you first wake up, these stores are essentially "set" for the day. This is also when you're most prone to entering flow states. Feel free to do this after your Sadhana practice.
+The 90-Second Rule: Start your hardest cognitive task within 90 seconds of waking. Here's why this works:
+Your memory and habitual thought patterns take time to fully "instantiate" after sleep
+Before they load in, you can approach problems with fresh eyes and heightened creativity
+This window is when your brain is neurologically primed for novel thinking
+Alternative approach: If diving straight into 90 minutes feels too intense, try 15-20 minutes of focused work, then a quick 10-minute walk (morning sunlight helps set your circadian rhythm), then continue your deep work sprint.
+SAD Lamp: Since you consistently wake up at 4 am and the sun usually isn't out yet, consider purchasing a <a data-tooltip-position="top" aria-label="https://www.amazon.com/dp/B00NPZZ1JW?th=1" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.amazon.com/dp/B00NPZZ1JW?th=1" target="_self">SAD lamp (this is the one I use)</a>. Feel free to look at their other offerings, they have a few different types, or if this is expensive find a different brand, 10000 Lux is the most important part.
+The mechanism involves:
+Circadian regulation: Light exposure suppresses melatonin production and helps reset your circadian clock
+Neurotransmitter modulation: Bright light influences serotonin synthesis and may affect dopamine pathways
+Retinal photoreceptors: Specialized cells (intrinsically photosensitive retinal ganglion cells) detect light intensity and send signals to the brain's suprachiasmatic nucleus, your biological clock
+The 90-Minute Sprint: Work in focused blocks of up to 90 minutes, aligned with your brain's natural ultradian rhythm.
+Finding Your Duration: Experiment to find your ideal sprint length. Use energy levels or subjective mental fatigue as your guide, 90 minutes is the ceiling, not the requirement.
+Volume: Start with 2-3 deep work sessions per day. You can scale up to 5 if necessary, but note that even elite performers who've practiced extensively tend to max out at 5 sessions.
+Recovery Between Sessions:
+NSDR (Non-Sleep Deep Rest): Triggers neural replay and accelerates memory consolidation, your brain is literally processing and encoding what you just worked on
+Go for a walk (touch grass): Resets your neurochemistry and restores cognitive resources
+Avoid: Scrolling on your phone. This drains dopamine availability rather than restoring it. The goal during recovery is replenishment, not stimulation.
+Most CEO burnout comes from high-effort, low-leverage work. The goal isn't just finding what you're good at, it's finding what only you can do that creates disproportionate value, then ruthlessly cutting everything else. Track energy drain too, some "valuable" tasks might need delegation if they're personally depleting. Sustainable performance &gt; grinding through everything.1. Track &amp; Categorize (1 week minimum)
+Log every task/meeting with time spent
+Note energy level for each (high/medium/low drain)
+Categories might include: strategic planning, team management, client work, operations/admin, firefighting, etc.
+2. Value Analysis For each category/task, assess:
+Revenue impact: Directly drives growth/retention?
+Strategic leverage: Moves critical initiatives forward?
+Unique value: Only I can do this effectively?
+3. The 80/20 Cut Identify the ~20% of activities producing ~80% of value:
+These are "CEO-only" tasks (strategy, key relationships, vision-setting)
+Everything else is a candidate for elimination or delegation
+4. Action Matrix
+Keep &amp; protect: High-value, CEO-unique tasks → block time for these
+Delegate: Medium-value, others can do 70%+ as well → assign ownership
+Eliminate: Low-value, ceremonial, or habit-based → just stop
+Automate: Repetitive decisions → create frameworks/SOPs for team
+Delay your first caffeine by 1-2 hours after waking. This prevents interference with your natural cortisol awakening response and protects your sleep-wake cycle.Add dedicated sauna sessions: Schedule gym visits specifically for sauna/steam room use, separate from workouts. This re-frames recovery as active practice rather than an afterthought.
+Practice a dedicated yoga routine: Spend some time each day doing Yoga or Tai Chi to actively recover and manage your stressRapid heat stress method (for time-limited sessions):
+10 minutes steam room first → suppresses sweating capacity, rapidly elevating core temperature
+20 minutes dry sauna → sustained heat exposure at 170-190°F
+Traditional approach (more gradual):
+20-30 minutes dry sauna at 170-190°F
+Multiple sessions per week (Scandinavian research shows benefits at 4-7x/week)
+Neurobiological effects:
+Endorphin/dynorphin system: Heat stress triggers beta-endorphin release (natural opioids), followed by dynorphin sensitivity changes that create lasting mood elevation and stress resilience
+BDNF elevation: Sauna increases brain-derived neurotrophic factor, supporting neuroplasticity and potentially offering antidepressant-like effects
+Heat shock proteins: HSPs provide neuroprotection and may reduce neuroinflammation associated with chronic stress
+Stress &amp; recovery mechanisms:
+Cortisol regulation: Regular sauna use helps normalize HPA axis function, reducing chronic stress response
+Parasympathetic activation: Heat exposure followed by cooling creates strong parasympathetic shift, training stress recovery systems
+Sleep enhancement: Evening sauna improves sleep quality through core temperature manipulation (same principle as your 8sleep)
+Clinical data: Finnish studies show regular sauna users have significantly lower rates of depression, anxiety, and psychotic disorders. Effects appear dose-dependent—more frequent/longer sessions correlate with greater mental health benefits.
+The practice pairs well with cold exposure (Wim Hof work) for maximum hormetic stress adaptation.
+You're already doing daily resistance training with your trainer—excellent foundation. Adding strategic cardio will amplify your cognitive performance and energy levels.
+Norwegian 4x4 Protocol (Gold Standard)
+4 intervals of 4 minutes at high intensity (85-95% max heart rate)
+3 minutes active recovery between intervals
+Most effective protocol for cardiovascular health
+Performance hack: Can be used as a pre-meeting primer for important meetings—elevated cardiovascular state enhances cognitive sharpness
+Zone 2 Cardio (Base Building)
+2 longer sessions per week (30-60 min)
+Conversational pace—you should be able to talk but not sing
+Builds aerobic base and improves VO2 max
+Schedule on different days than Norwegian 4x4
+REHIT / CAROL Bike (Time-Efficient Option)
+For days when time is limited
+Extremely time-effective (~9 minutes total)
+Provides significant cardiovascular benefit with minimal time investment
+Cons: expensive investment costs around 2.5k
+We didn't get to cover this in our session, but here are the key conditions that increase your probability of entering flow states:Pre-Session Checklist:
+What specifically am I trying to accomplish?
+How will I know I'm making progress?
+Have I eliminated all possible distractions?
+Is this challenging enough to fully engage me?
+]]></description><link>harsha-venkayalapti.html</link><guid isPermaLink="false">main/work/zer0/peak performance coaching/Harsha Venkayalapti.md</guid><pubDate>Wed, 14 Jan 2026 02:12:54 GMT</pubDate></item></channel></rss>
